@@ -1,9 +1,9 @@
 # 👋 Yo! Vlad Sec here
 
-🔐 Security expert & ethical hacker  
-🌐 Focused on Web2.0, Web3.0, and Open-Source security    
-🏆 Helped companies achieve ISO 27001, SOC 2, and GDPR compliance  
-🛠️ Building and supporting tools that help make the internet safer  
+- Security expert & ethical hacker  
+- Focused on Web2.0, Web3.0, and Open-Source security    
+- Helped companies achieve ISO 27001, SOC 2, and GDPR compliance  
+- Building and supporting tools that help make the internet safer  
 
 ---
 
