@@ -7,7 +7,14 @@
 
 ---
 
-☕ If you like my work, consider [buying me a coffee](https://buymeacoffee.com/vladsec)!
+## 📘 Open-Source Work
+
+Currently translating [OWASP ASVS v5](https://owasp.org/www-project-application-security-verification-standard/) into Ukrainian 🇺🇦  
+Follow progress: [OWASP ASVS uk/](https://github.com/teraGL/ASVS/tree/master/5.0/uk)  
+
+---
+
+☕ Like my work? [Buy me a coffee](https://buymeacoffee.com/vladsec)!
 
 <a href="https://buymeacoffee.com/vladsec" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" />
@@ -18,6 +25,6 @@
 
 If you'd like to support my work:
 
-- <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" alt="Bitcoin" width="20"/> **Bitcoin:** `17xJr6ygmiy4dpafNGNZPsh6YLF21y8Q3Y`
-- <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" alt="Ethereum" width="20"/> **Ethereum / USDT (ERC-20):** `0xd1bbf69644296a09668e4f83ce280a58ba69f434`
+- <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" alt="Bitcoin" width="20"/> **BTC:** `17xJr6ygmiy4dpafNGNZPsh6YLF21y8Q3Y`
+- <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" alt="Ethereum" width="20"/> **ETH / USDT (ERC-20):** `0xd1bbf69644296a09668e4f83ce280a58ba69f434`
 - <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/825.png" alt="USDT" width="20"/> **USDT (TRC-20):** `TL5r6YGKXtRdJDuELiau8bGj4ZwT69GJGZ`
