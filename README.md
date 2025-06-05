@@ -10,7 +10,7 @@
 ## 📘 Open-Source Work
 
 Currently translating [OWASP ASVS v5](https://owasp.org/www-project-application-security-verification-standard/) into Ukrainian 🇺🇦  
-Follow progress: [OWASP ASVS uk/](https://github.com/teraGL/ASVS/tree/master/5.0/uk)  
+Follow progress: [OWASP ASVS uk/](https://github.com/teraGL/ASVS/blob/master/5.0/uk/Progress.md)  
 
 ---
 
